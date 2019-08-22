@@ -1,7 +1,0 @@
-print ("Hello You")
-print ("What is your name ?")
-Myname = input ()
-print ('Good to meet you ' + Myname)
-print("What's your age?")
-MyAge = input()
-print ('Dear ' + Myname + ', your age would be ' + str(int(MyAge) + 1) + ' Next year.')
